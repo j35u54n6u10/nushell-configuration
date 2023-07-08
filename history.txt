@@ -1,0 +1,76 @@
+exit
+clear
+ls
+cd %appdata%
+ls
+cd C:\Users\USUARIO\AppData\Roaming
+clear 
+ls
+cd nushell\
+ls
+cat history.txt
+nano --version
+vim --version
+clear
+ls
+nano config.nu
+cle
+clear
+nvim --version
+exit
+clear
+nvim
+clear
+cd ~
+clear
+ls
+clear
+cd C:\Users\USUARIO\AppData\Roaming
+ls
+cd nushell\
+ls
+clear
+ls
+nvim env.nu
+cd ~
+ls
+cd C:\Users\USUARIO\AppData\Roaming
+ls
+clear
+ls
+cd C:\Users\USUARIO\AppData\Local
+ls
+mkdir nvim && cd nvim
+mkdir nvim and cd nvim
+ls
+cd nvim
+ls
+nu.config-path
+$nu.config-path
+cd $nu.config-path
+cd C:\Users\USUARIO\AppData\Roaming\nushell\config.nu
+nvim C:\Users\USUARIO\AppData\Roaming\nushell\config.nu
+config nu
+$EDITOR
+ls
+$env.EDITOR
+nvim C:\Users\USUARIO\AppData\Roaming\nushell\config.nu
+:wq
+:wq!
+git --version
+clear
+$nu.config-path
+cd C:\Users\USUARIO\AppData\Roaming\nushell\config.nu
+cd C:\Users\USUARIO\AppData\Roaming\nushell\
+ls
+cd ..
+cp nushell\ ~\Desktop\
+cp --recursive nushell\ ~\Desktop\
+cd ~\Desktop\
+clear
+ls
+cd nushell\
+ls
+cd C:\Users\USUARIO\AppData\Roaming\nushell\
+ls
+git init
